@@ -1,17 +1,15 @@
-<!DOCTYPE html>
-<html>
-<body>
 
-<h2>Demo External JavaScript</h2>
+ var lastName = "Omar"
+ var firstName= "Alina "
 
-<p id="demo">A Paragraph.</p>
+var age = 20;
+var degreeTime = 4;
 
-<button type="button" onclick="myFunction()">Try it</button>
+ console.log(age + degreeTime)
 
-<p>This example links to "myScript.js".</p>
-<p>(myFunction is stored in "myScript.js")</p>
+  console.log(firstName)
 
-<script src="myScript.js"></script>
-
-</body>
-</html>
+  console.log("My name is " + firstName + lastName )
+  console.log("My name is " + lastName )
+  console.log("My name is " + lastName )
+  console.log("My name is " + lastName )
