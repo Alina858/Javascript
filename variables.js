@@ -1,15 +1,25 @@
 
- var lastName = "Omar"
- var firstName= "Alina "
+ //var lastName = "Alina"
+ //var firstName= "Alina "
 
-var age = 20;
-var degreeTime = 4;
+//var age = 20;
+//var degreeTime = 4;
 
- console.log(age + degreeTime)
+ //var isMarried = false
 
-  console.log(firstName)
+ //console.log("is ahmed married" + isMarried)
 
-  console.log("My name is " + firstName + lastName )
-  console.log("My name is " + lastName )
-  console.log("My name is " + lastName )
-  console.log("My name is " + lastName )
+ //console.log(age * degreeTime)
+
+  //console.log(firstName) 
+
+
+function girls(){
+
+console.log("What girls like")
+console.log("Makeup")
+console.log("shopping")
+}
+
+ girls()
+
